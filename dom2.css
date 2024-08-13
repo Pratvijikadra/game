@@ -1,0 +1,8 @@
+#box {
+  height:350px;
+  width: 150px;
+  background-color: cadetblue;
+  color:white;
+  border: 3px solid black;
+}
+
